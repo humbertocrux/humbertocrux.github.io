@@ -1,8 +1,8 @@
 html, body{
    padding:0px;
    margin:0px;
-   background:#191A1D;
-   font-family: 'Karla', sans-serif;
+   background:white;
+   font-family: 'Montserrat', sans-serif;
    width:100vw;
 }
 body * {
@@ -50,7 +50,7 @@ nav {
 }
 
 nav a {
-   background:#75F;
+   background:#00318B;
    color:#FFF;
    min-width:190px;
    transition: background 0.5s, color 0.5s, transform 0.5s;
